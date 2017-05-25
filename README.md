@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Stefanie
 
-I like to:
+I like to: eat, garden, paint, and play with my bird.
 
-I'm learning:
+I'm learning: HTML, CSS, Javascript, and how to paint like Bob Ross.
 
 ```
 
